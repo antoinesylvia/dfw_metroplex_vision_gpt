@@ -17,8 +17,11 @@ Instructions:
 
 Other Notables:
 ---------------
-- All processed items will have individual JSON logs capturing the filename, model, created timestamp for when item was logged, and content (output response from API).
-- All processed items will have the same attributes captured in the JSON appended to a CSV, for each item processed a new row will be made.
+- All processed items will have individual JSON logs capturing the filename, model, created timestamp for when item was logged, and content (output response from API):
+![JSON Image](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/main/zzDemo/json.png)
+- All processed items will have the same attributes captured in the JSON appended to a CSV, for each item processed a new row will be made:
+  
+![CSV Image](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/838ec956a0222b89c54a2e0ac66cf5b079261a88/zzDemo/csv.png)
 - I've included some samples in the respective folders.
 
 Demo
