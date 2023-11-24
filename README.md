@@ -1,4 +1,6 @@
 # dfw_metroplex_vision_gpt
+---------------
+Wanted to play around with the new Vision feature that came out of the OpenAI developer day. 
 
 Instructions:
 ---------------
