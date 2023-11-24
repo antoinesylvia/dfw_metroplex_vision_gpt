@@ -248,7 +248,7 @@ def main():
 
     while True:
         try:
-            latest_file = find_latest_file(AUTO_FOLDER, ["png"])
+            latest_file = find_latest_file(AUTO_FOLDER, ["png", "jpg", "gif"])
             last_uploaded = read_write_last_uploaded(LAST_UPLOADED_FILE)
 
             latest_manual_file = find_latest_file(MANUAL_FOLDER, ["png", "jpg", "gif"])
