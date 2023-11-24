@@ -6,6 +6,7 @@ Wanted to play around with the new Vision feature that came out of the OpenAI de
 
 
 
+
 Instructions:
 ---------------
 1. Fill out config.txt with your relevant data such as your OpenAI API key and custom prompt. This data will be tied to the constant values in the code. 
