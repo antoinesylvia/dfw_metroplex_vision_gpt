@@ -7,10 +7,13 @@ Wanted to play around with the new Vision feature that came out of the OpenAI de
 Instructions:
 ---------------
 1. Fill out config.txt with your relevant data such as your OpenAI API key and custom prompt. This data will be tied to the constant values in the code. 
+
+![Config Image](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/76360b295733e5bde2b7166cd6d8a6e9ad23b3d9/zzDemo/config.png)
+
 2. Install the necessary requirements: pip install -r requirements.txt
-3a. If you have a screenshot application, point it at a subfolder in this directory once you clone this (BASE DIR > SCREENSHOTS > auto_scan). Only the latest file in directory dropped in will be scanned and output shown in the CLI.
-3b. If you want to manually move in images, drop them one at a time here: BASE DIR > SCREENSHOTS > manual_scan
-4. Run app with --> python visiongpt.py
+3. If you have a screenshot application, point it at a subfolder in this directory once you clone this (BASE DIR > SCREENSHOTS > auto_scan). Only the latest file in directory dropped in will be scanned and output shown in the CLI.
+4. If you want to manually move in images, drop them one at a time here: BASE DIR > SCREENSHOTS > manual_scan
+5. Run app with --> python visiongpt.py
 
 Other Notables:
 ---------------
