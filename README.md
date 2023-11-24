@@ -30,7 +30,7 @@ Demo
 
 ![Atari Image](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/2a00358b90a1994fe80f5460c7c4c822444f66f1/zzDemo/Atari.png)
 
-2. Once it lands in the directory, it's presence is picked up and the data is sent to the API along with a customizable prompt, 'what's in this image?'.
+2. Once it lands in the directory(auto_scan), it's presence is picked up and the data is sent to the API along with a customizable prompt, 'what's in this image?'.
 
 ![CLI Image](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/2a00358b90a1994fe80f5460c7c4c822444f66f1/zzDemo/CLI.png)
 
