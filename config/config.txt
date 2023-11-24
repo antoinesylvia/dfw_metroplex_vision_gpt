@@ -1,0 +1,16 @@
+# VisionGPT Configuration File
+
+# API Key for OpenAI
+API_Key=YOUR_OPEN_AI_KEY_HERE
+
+# Model to be used for OpenAI Vision API
+Model=gpt-4-vision-preview
+
+# Prompt to send along with the image, change this anything!
+Prompt=What’s in this image? 
+
+# Maximum number of tokens to be used in the response
+Max_Tokens=4000
+
+#API URL required to use OpenAI Vision
+API_URL=https://api.openai.com/v1/chat/completions
