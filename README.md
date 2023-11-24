@@ -8,5 +8,6 @@ Instructions:
 4. Run app with --> python visiongpt.py
 
 Other Notables:
+
 All processed items will have individual JSON logs capturing the filename, model, created timestamp for when item was logged, and content (output response from API).
 All processed items will have the same attributes captured in the JSON appended to a CSV, for each item processed a new row will be made. 
