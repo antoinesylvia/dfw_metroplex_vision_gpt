@@ -2,10 +2,7 @@
 ---------------
 Wanted to play around with the new Vision feature that came out of the OpenAI developer day. 
 
-![Alt text](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/main/Terminator_HUD.gif "test_of_new_tool")
-
-
-
+![Terminator HUD](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/b45c39d55f501511b923a0e3763220e30466665e/zzDemo/Terminator_HUD.gif)
 
 Instructions:
 ---------------
