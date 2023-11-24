@@ -2,7 +2,7 @@
 
 Instructions:
 ---------------
-1. Fill out config.txt with your relevant data such as your OpenAI API key and custom prompt.
+1. Fill out config.txt with your relevant data such as your OpenAI API key and custom prompt. This data will be tied to the constant values in the code. 
 2. Install the necessary requirements: pip install -r requirements.txt
 3a. If you have a screenshot application, point it at a subfolder in this directory once you clone this (BASE DIR > SCREENSHOTS > auto_scan). Only the latest file in directory dropped in will be scanned and output shown in the CLI.
 3b. If you want to manually move in images, drop them one at a time here: BASE DIR > SCREENSHOTS > manual_scan
