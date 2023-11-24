@@ -16,4 +16,18 @@ Other Notables:
 ---------------
 - All processed items will have individual JSON logs capturing the filename, model, created timestamp for when item was logged, and content (output response from API).
 - All processed items will have the same attributes captured in the JSON appended to a CSV, for each item processed a new row will be made.
-- I've included some samples in the respective folders. 
+- I've included some samples in the respective folders.
+
+Demo
+---------------
+1. I screenshot an image of a Atari 2600, I have my system configured to save screenshots to the auto_scan directory. 
+
+![Atari Image](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/2a00358b90a1994fe80f5460c7c4c822444f66f1/zzDemo/Atari.png)
+
+2. Once it lands in the directory, it's presence is picked up and the data is sent to the API along with a customizable prompt, 'what's in this image?'.
+
+![CLI Image](https://raw.githubusercontent.com/antoinesylvia/dfw_metroplex_vision_gpt/2a00358b90a1994fe80f5460c7c4c822444f66f1/zzDemo/CLI.png)
+
+3. Response output is provided in the CLI, this is also saved to a JSON file per image processed and data output is appended to a CSV that captures all images processed.
+
+4. App now waits to process the next image saved to auto_scan or manual_scan folders. 
